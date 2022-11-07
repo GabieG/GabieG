@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabieG
-- 👀 I’m interested in Cybersecurity field and software engineering. 
+- 👀 I’m interested in Cybersecurity infrastructure and software field. 
 - 🌱 I’m currently learning python/bash programming languages and networking with VMs at Efrei Paris.
 - 💞️ I’m looking to collaborate on important projects in cybersecurity. I worked (in 07/2021) on a group project about an anti-ransomeware solution called "Ecorp".
 - 📫 You can reach me on my email adress : gabrielle.girard@efrei.net
